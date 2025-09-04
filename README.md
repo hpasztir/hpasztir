@@ -4,11 +4,21 @@
 🚀 Building AI-driven solutions at [SupportDev.io](https://supportdev.io)  
 🎨 Passionate about merging creativity & technology  
 
-## 🛠 Skills
-- Python • SQL • JavaScript
-- React Native • TailwindCSS
-- AWS • GitHub Actions • Tableau
-- Agile • CRM (Zoho, Salesforce)
+## 🛠 Skills & Tools
+
+**Core Skills**
+- Python • SQL • React Native • TailwindCSS
+- GitHub Actions • Tableau • Agile Methods
+- CRM Platforms: Zoho, Salesforce
+
+**AI-Enhanced Development**
+- ChatGPT Pro • Bolt.new • Lovable • v0.dev
+- Sora (video gen), Canva, Notion AI
+- Using AI to accelerate coding, prototyping & app deployment
+
+**Learning**
+- JavaScript basics (through React Native projects)
+- Expanding knowledge in cloud (AWS) & automation
 
 ## 📌 Projects
 - [Hersch Marketplace](#) – Multi-role vendor/organizer/shopper PWA  
